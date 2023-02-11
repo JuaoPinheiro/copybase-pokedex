@@ -7,7 +7,7 @@
 
 Pokedex é uma aplicação que mostra todos os personagens do anime Pokemon, mostra também suas forças, ataque, evoluções e muitas outras informações!
 
-### Link do projeto: <a href='https://pokedex-copybase-eta.vercel.app'> Aqui!</a>
+### Link do projeto: <a href='https://copybase-pokedex.vercel.app'> Aqui!</a>
 
 # 👨‍💻 Instalação
 
